@@ -37,11 +37,11 @@ Write-ups: [APISIX → kgateway migration](https://weblog.antonnovikov.com/2026-
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The site moved to v2, and I like it now](https://weblog.antonnovikov.com/2026-11-16-site-redesign-as-production-change)
 - [From APISIX to kgateway on Single-Node k0s: Gateway API Instead of Annotations](https://weblog.antonnovikov.com/2026-11-13-apisix-to-kgateway-migration)
 - [One Evening, Three Problems: Mail Down, Memory Full, Wrong Docker Arch](https://weblog.antonnovikov.com/2026-08-13-mail-down-memory-full-wrong-arch)
 - [From Traefik to APISIX on single-node k0s: what broke](https://weblog.antonnovikov.com/2026-07-15-traefik-to-apisix-migration)
 - [Bare-metal k8s: a stable Cilium L2 LoadBalancer during node maintenance](https://weblog.antonnovikov.com/2026-07-13-bare-metal-k8s-cilium-l2-maintenance)
-- [Lost the only SSH key to dozens of Yandex Cloud VMs: how I got back in](https://weblog.antonnovikov.com/2026-07-06-yandex-cloud-lost-ssh-key-disk-rescue)
 <!-- BLOG-POST-LIST:END -->
 
 ### Courses
